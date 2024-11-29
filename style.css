@@ -9,8 +9,7 @@
     justify-content: center;
     align-items: center;
     height: 50vh;
-    width: 50wh;
-    background-color: #FFCFEF;
+   
 }
 
 .sub-container{
@@ -18,9 +17,10 @@
     flex-direction: column;
     margin-top: 18px;
     position: relative;
-    box-shadow: 0px 0px 5px #2A3335;
+    box-shadow: 3px 0px 10px #2A3335;
     padding: 15px;
     border-radius: 5px;
+      background-color: #FFCFEF;
 }
 
 .sub-container input{
